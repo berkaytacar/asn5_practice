@@ -9,7 +9,9 @@ see [stringr](https://stringr.tidyverse.org),
 [rex](https://cran.r-project.org/package=rex), and
 [rematch2](https://cran.r-project.org/package=rematch2).**
 
-# regexcite
+# regexcite and my_add
+
+![](https://github.com/berkaytacar/asn5_practice/actions/workflows/test-coverage.yaml/badge.svg)
 
 <!-- badges: start -->
 <!-- badges: end -->
