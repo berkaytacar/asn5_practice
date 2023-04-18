@@ -37,9 +37,3 @@ jobs:
       
       - name: Checks if R package can be installed
         uses: r-lib/actions/check-r-package@v2
-        
-      - name: Run devtools
-        run: Rscript -e "remotes::install_version('devtools', '2.4.3')"
-        
-      - name: Run install package function
-        run: Rscript -e "devtools::install_github('berkaytacar/asn5_practice')
